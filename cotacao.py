@@ -18,10 +18,10 @@ def getCotacao(codMoeda):
 
 # Teste
 # Cotação da Libra Esterlina
-print(f'Valor da Libra Esterlina: R$ {getCotacao("GBP")}')
+# print(f'Valor da Libra Esterlina: R$ {getCotacao("GBP")}')
 
 # Cotação do Dolar Americano
-print(f'Valor do Dólar Americano: R$ {getCotacao("USD")}')
+# print(f'Valor do Dólar Americano: R$ {getCotacao("USD")}')
 
 # Cotação do Dolar Americano
-print(f'Valor do Euro: R$ {getCotacao("EUR")}')
+# print(f'Valor do Euro: R$ {getCotacao("EUR")}')
